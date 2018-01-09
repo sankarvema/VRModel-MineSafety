@@ -1,0 +1,662 @@
+fileFormatVersion: 2
+guid: d12335151bb5de147b2def61cb342108
+timeCreated: 1504526348
+licenseType: Free
+SketchUpImporter:
+  generateBackFace: 0
+  mergeCoplanarFaces: 0
+  selectedNodes: 000000000100000002000000030000000400000005000000060000000700000008000000090000000a0000000b0000000c0000000d0000000e0000000f000000100000001100000012000000130000001400000015000000160000001700000018000000190000001a0000001b0000001c0000001d0000001e0000001f000000200000002100000022000000230000002400000025000000260000002700000028000000290000002a0000002b0000002c0000002d0000002e0000002f000000300000003100000032000000330000003400000035000000360000003700000038000000390000003a0000003b0000003c0000003d0000003e0000003f000000400000004100000042000000430000004400000045000000460000004700000048000000490000004a0000004b0000004c0000004d0000004e0000004f000000500000005100000052000000530000005400000055000000560000005700000058000000590000005a0000005b0000005c0000005d0000005e0000005f000000600000006100000062000000630000006400000065000000660000006700000068000000690000006a0000006b0000006c0000006d0000006e0000006f000000700000007100000072000000730000007400000075000000760000007700000078000000790000007a0000007b0000007c0000007d0000007e0000007f000000800000008100000082000000830000008400000085000000860000008700000088000000890000008a0000008b0000008c0000008d0000008e0000008f000000900000009100000092000000930000009400000095000000960000009700000098000000990000009a0000009b0000009c0000009d0000009e0000009f000000a0000000a1000000a2000000a3000000a4000000a5000000a6000000a7000000a8000000a9000000aa000000ab000000ac000000ad000000ae000000af000000b0000000b1000000b2000000b3000000b4000000b5000000b6000000b7000000b8000000b9000000ba000000bb000000bc000000bd000000be000000bf000000c0000000c1000000c2000000c3000000c4000000c5000000c6000000c7000000c8000000c9000000ca000000cb000000cc000000cd000000ce000000cf000000d0000000d1000000d2000000d3000000d4000000d5000000d6000000d7000000d8000000d9000000da000000db000000dc000000dd000000de000000df000000e0000000e1000000e2000000e3000000e4000000e5000000e6000000e7000000e8000000e9000000ea000000eb000000ec000000ed000000f0000000f1000000f2000000f3000000f4000000f5000000f6000000f7000000f8000000f9000000fa000000fb000000fc000000fd000000
+  assetHash:
+    serializedVersion: 2
+    Hash: b462610d6dbedb8f7864c89d8a1bf89d
+  longitude: -102.34968522310089
+  latitude: 20.705570459294353
+  northCorrection: -0
+  fileUnit: 0
+  sketchUpImportData:
+    defaultCamera:
+      position: {x: -3.9113295, y: 1.6441438, z: 6.070526}
+      lookAt: {x: 1.4788532, y: 1.1971669, z: 3.2375147}
+      up: {x: 0.06480099, y: 0.99731684, z: -0.03405858}
+      fov: 35
+      aspectRatio: 0
+      orthoSize: 1
+      isPerspective: 1
+    scenes: []
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: 1971 chevy cab and chassis
+    100002: 1992 Ford F-350 XLT - Cab & Chassis#2
+    100004: 1992 Ford F-350 XLT - Crew Cab#2
+    100006: 1992 Ford F-350 XLT - Regular Cab - Cab & Chassis
+    100008: 2000 ford f-350 cab and chassis
+    100010: 2000 ford f-350 crew cab and chassis
+    100012: 2004 ford excursion
+    100014: 2005  Ford Econoline cab and chassis
+    100016: 2005 Ford Excursion
+    100018: 2005 Ford Excursion#1
+    100020: 911#4
+    100022: 911#5
+    100024: //RootNode
+    100026: AMBULANCE#6
+    100028: ambulancia tipo 3 1994
+    100030: ambulancia tipo 3 ford f350 ecoline modelo 1988
+    100032: ambulancia tipo 3 modelo 88
+    100034: ambulancia tipo 3 modelo 88#1
+    100036: base
+    100038: bottom
+    100040: bottom 1
+    100042: carro camilla#1
+    100044: center cover#2
+    100046: chicago illinois first response ambulance usa american
+    100048: Component#2
+    100050: Component#2 1
+    100052: Component#4
+    100054: Component#5
+    100056: Componente#8
+    100058: COOL111111
+    100060: cross rail
+    100062: cross rail 1
+    100064: cross rail#1
+    100066: cross rail#1 1
+    100068: estrella de la vida
+    100070: estrella de la vida 1
+    100072: FIRST RESPONDER
+    100074: FIRST RESPONDER#1
+    100076: foot
+    100078: foot 1
+    100080: FORCE 4 XL#1
+    100082: FORCE 4 XL#1 1
+    100084: Ford Econoline cube van
+    100086: GeodesicDome01
+    100088: GeodesicDome01 1
+    100090: Group 100
+    100092: Group 102
+    100094: Group 104
+    100096: Group 105
+    100098: Group 107
+    100100: Group 109
+    100102: Group 111
+    100104: Group 113
+    100106: Group 114
+    100108: Group 116
+    100110: Group 118
+    100112: Group 120
+    100114: Group 121
+    100116: Group 123
+    100118: Group 125
+    100120: Group 127
+    100122: Group 128
+    100124: Group 130
+    100126: Group 132
+    100128: Group 134
+    100130: Group 145
+    100132: Group 147
+    100134: Group 149
+    100136: Group 151
+    100138: Group 153
+    100140: Group 155
+    100142: Group 157
+    100144: Group 159
+    100146: Group 161
+    100148: Group 163
+    100150: Group 165
+    100152: Group 167
+    100154: Group 169
+    100156: Group 171
+    100158: Group 173
+    100160: Group 175
+    100162: Group 177
+    100164: Group 179
+    100166: Group 181
+    100168: Group 183
+    100170: Group 185
+    100172: Group 187
+    100174: Group 189
+    100176: Group 191
+    100178: Group 193
+    100180: Group 195
+    100182: Group 197
+    100184: Group 199
+    100186: Group 201
+    100188: Group 203
+    100190: Group 205
+    100192: Group 207
+    100194: Group 209
+    100196: Group 211
+    100198: Group 213
+    100200: Group 215
+    100202: Group 217
+    100204: Group 219
+    100206: Group 221
+    100208: Group 223
+    100210: Group 225
+    100212: Group 227
+    100214: Group 229
+    100216: Group 231
+    100218: Group 54
+    100220: Group 55
+    100222: Group 77
+    100224: Group 79
+    100226: Group 81
+    100228: Group 83
+    100230: Group 96
+    100232: Group 98
+    100234: Group#21
+    100236: lens#3
+    100238: lens#4
+    100240: mirrior 2
+    100242: mirroe 1
+    100244: mirroe 1 1
+    100246: mirroe 2.5
+    100248: motor
+    100250: motor 1
+    100252: Public Safety Eq
+    100254: Public Safety Eq 1
+    100256: rotator
+    100258: rotator 1
+    100260: Siltop
+    100262: Silver laptop computer
+    100264: SimpleSphere02
+    100266: SimpleSphere02 1
+    100268: ske5
+    100270: ske9
+    100272: Star of Life#1
+    100274: top
+    100276: top 1
+    100278: torreta code 3
+    100280: Truck_Delivery
+    100282: windscre01
+    400000: 1971 chevy cab and chassis
+    400002: 1992 Ford F-350 XLT - Cab & Chassis#2
+    400004: 1992 Ford F-350 XLT - Crew Cab#2
+    400006: 1992 Ford F-350 XLT - Regular Cab - Cab & Chassis
+    400008: 2000 ford f-350 cab and chassis
+    400010: 2000 ford f-350 crew cab and chassis
+    400012: 2004 ford excursion
+    400014: 2005  Ford Econoline cab and chassis
+    400016: 2005 Ford Excursion
+    400018: 2005 Ford Excursion#1
+    400020: 911#4
+    400022: 911#5
+    400024: //RootNode
+    400026: AMBULANCE#6
+    400028: ambulancia tipo 3 1994
+    400030: ambulancia tipo 3 ford f350 ecoline modelo 1988
+    400032: ambulancia tipo 3 modelo 88
+    400034: ambulancia tipo 3 modelo 88#1
+    400036: base
+    400038: bottom
+    400040: bottom 1
+    400042: carro camilla#1
+    400044: center cover#2
+    400046: chicago illinois first response ambulance usa american
+    400048: Component#2
+    400050: Component#2 1
+    400052: Component#4
+    400054: Component#5
+    400056: Componente#8
+    400058: COOL111111
+    400060: cross rail
+    400062: cross rail 1
+    400064: cross rail#1
+    400066: cross rail#1 1
+    400068: estrella de la vida
+    400070: estrella de la vida 1
+    400072: FIRST RESPONDER
+    400074: FIRST RESPONDER#1
+    400076: foot
+    400078: foot 1
+    400080: FORCE 4 XL#1
+    400082: FORCE 4 XL#1 1
+    400084: Ford Econoline cube van
+    400086: GeodesicDome01
+    400088: GeodesicDome01 1
+    400090: Group 100
+    400092: Group 102
+    400094: Group 104
+    400096: Group 105
+    400098: Group 107
+    400100: Group 109
+    400102: Group 111
+    400104: Group 113
+    400106: Group 114
+    400108: Group 116
+    400110: Group 118
+    400112: Group 120
+    400114: Group 121
+    400116: Group 123
+    400118: Group 125
+    400120: Group 127
+    400122: Group 128
+    400124: Group 130
+    400126: Group 132
+    400128: Group 134
+    400130: Group 145
+    400132: Group 147
+    400134: Group 149
+    400136: Group 151
+    400138: Group 153
+    400140: Group 155
+    400142: Group 157
+    400144: Group 159
+    400146: Group 161
+    400148: Group 163
+    400150: Group 165
+    400152: Group 167
+    400154: Group 169
+    400156: Group 171
+    400158: Group 173
+    400160: Group 175
+    400162: Group 177
+    400164: Group 179
+    400166: Group 181
+    400168: Group 183
+    400170: Group 185
+    400172: Group 187
+    400174: Group 189
+    400176: Group 191
+    400178: Group 193
+    400180: Group 195
+    400182: Group 197
+    400184: Group 199
+    400186: Group 201
+    400188: Group 203
+    400190: Group 205
+    400192: Group 207
+    400194: Group 209
+    400196: Group 211
+    400198: Group 213
+    400200: Group 215
+    400202: Group 217
+    400204: Group 219
+    400206: Group 221
+    400208: Group 223
+    400210: Group 225
+    400212: Group 227
+    400214: Group 229
+    400216: Group 231
+    400218: Group 54
+    400220: Group 55
+    400222: Group 77
+    400224: Group 79
+    400226: Group 81
+    400228: Group 83
+    400230: Group 96
+    400232: Group 98
+    400234: Group#21
+    400236: lens#3
+    400238: lens#4
+    400240: mirrior 2
+    400242: mirroe 1
+    400244: mirroe 1 1
+    400246: mirroe 2.5
+    400248: motor
+    400250: motor 1
+    400252: Public Safety Eq
+    400254: Public Safety Eq 1
+    400256: rotator
+    400258: rotator 1
+    400260: Siltop
+    400262: Silver laptop computer
+    400264: SimpleSphere02
+    400266: SimpleSphere02 1
+    400268: ske5
+    400270: ske9
+    400272: Star of Life#1
+    400274: top
+    400276: top 1
+    400278: torreta code 3
+    400280: Truck_Delivery
+    400282: windscre01
+    2300000: 1971 chevy cab and chassis
+    2300002: 1992 Ford F-350 XLT - Crew Cab#2
+    2300004: 911#4
+    2300006: 911#5
+    2300008: AMBULANCE#6
+    2300010: base
+    2300012: bottom
+    2300014: bottom 1
+    2300016: center cover#2
+    2300018: Component#5
+    2300020: cross rail
+    2300022: cross rail 1
+    2300024: cross rail#1
+    2300026: cross rail#1 1
+    2300028: estrella de la vida
+    2300030: estrella de la vida 1
+    2300032: FIRST RESPONDER
+    2300034: FIRST RESPONDER#1
+    2300036: foot
+    2300038: foot 1
+    2300040: FORCE 4 XL#1
+    2300042: FORCE 4 XL#1 1
+    2300044: GeodesicDome01
+    2300046: GeodesicDome01 1
+    2300048: Group 100
+    2300050: Group 102
+    2300052: Group 105
+    2300054: Group 107
+    2300056: Group 109
+    2300058: Group 111
+    2300060: Group 114
+    2300062: Group 116
+    2300064: Group 118
+    2300066: Group 121
+    2300068: Group 123
+    2300070: Group 125
+    2300072: Group 128
+    2300074: Group 130
+    2300076: Group 132
+    2300078: Group 134
+    2300080: Group 145
+    2300082: Group 147
+    2300084: Group 149
+    2300086: Group 151
+    2300088: Group 153
+    2300090: Group 155
+    2300092: Group 157
+    2300094: Group 159
+    2300096: Group 161
+    2300098: Group 163
+    2300100: Group 165
+    2300102: Group 167
+    2300104: Group 169
+    2300106: Group 171
+    2300108: Group 173
+    2300110: Group 175
+    2300112: Group 177
+    2300114: Group 179
+    2300116: Group 181
+    2300118: Group 183
+    2300120: Group 185
+    2300122: Group 187
+    2300124: Group 189
+    2300126: Group 191
+    2300128: Group 193
+    2300130: Group 195
+    2300132: Group 197
+    2300134: Group 199
+    2300136: Group 201
+    2300138: Group 203
+    2300140: Group 205
+    2300142: Group 207
+    2300144: Group 209
+    2300146: Group 211
+    2300148: Group 213
+    2300150: Group 215
+    2300152: Group 217
+    2300154: Group 219
+    2300156: Group 221
+    2300158: Group 223
+    2300160: Group 225
+    2300162: Group 227
+    2300164: Group 229
+    2300166: Group 231
+    2300168: Group 55
+    2300170: Group 77
+    2300172: Group 79
+    2300174: Group 81
+    2300176: Group 83
+    2300178: Group 96
+    2300180: Group 98
+    2300182: lens#3
+    2300184: lens#4
+    2300186: mirrior 2
+    2300188: mirroe 1
+    2300190: mirroe 1 1
+    2300192: mirroe 2.5
+    2300194: motor
+    2300196: motor 1
+    2300198: Public Safety Eq
+    2300200: Public Safety Eq 1
+    2300202: rotator
+    2300204: rotator 1
+    2300206: Silver laptop computer
+    2300208: SimpleSphere02
+    2300210: SimpleSphere02 1
+    2300212: Star of Life#1
+    2300214: top
+    2300216: top 1
+    2300218: windscre01
+    3300000: 1971 chevy cab and chassis
+    3300002: 1992 Ford F-350 XLT - Crew Cab#2
+    3300004: 911#4
+    3300006: 911#5
+    3300008: AMBULANCE#6
+    3300010: base
+    3300012: bottom
+    3300014: bottom 1
+    3300016: center cover#2
+    3300018: Component#5
+    3300020: cross rail
+    3300022: cross rail 1
+    3300024: cross rail#1
+    3300026: cross rail#1 1
+    3300028: estrella de la vida
+    3300030: estrella de la vida 1
+    3300032: FIRST RESPONDER
+    3300034: FIRST RESPONDER#1
+    3300036: foot
+    3300038: foot 1
+    3300040: FORCE 4 XL#1
+    3300042: FORCE 4 XL#1 1
+    3300044: GeodesicDome01
+    3300046: GeodesicDome01 1
+    3300048: Group 100
+    3300050: Group 102
+    3300052: Group 105
+    3300054: Group 107
+    3300056: Group 109
+    3300058: Group 111
+    3300060: Group 114
+    3300062: Group 116
+    3300064: Group 118
+    3300066: Group 121
+    3300068: Group 123
+    3300070: Group 125
+    3300072: Group 128
+    3300074: Group 130
+    3300076: Group 132
+    3300078: Group 134
+    3300080: Group 145
+    3300082: Group 147
+    3300084: Group 149
+    3300086: Group 151
+    3300088: Group 153
+    3300090: Group 155
+    3300092: Group 157
+    3300094: Group 159
+    3300096: Group 161
+    3300098: Group 163
+    3300100: Group 165
+    3300102: Group 167
+    3300104: Group 169
+    3300106: Group 171
+    3300108: Group 173
+    3300110: Group 175
+    3300112: Group 177
+    3300114: Group 179
+    3300116: Group 181
+    3300118: Group 183
+    3300120: Group 185
+    3300122: Group 187
+    3300124: Group 189
+    3300126: Group 191
+    3300128: Group 193
+    3300130: Group 195
+    3300132: Group 197
+    3300134: Group 199
+    3300136: Group 201
+    3300138: Group 203
+    3300140: Group 205
+    3300142: Group 207
+    3300144: Group 209
+    3300146: Group 211
+    3300148: Group 213
+    3300150: Group 215
+    3300152: Group 217
+    3300154: Group 219
+    3300156: Group 221
+    3300158: Group 223
+    3300160: Group 225
+    3300162: Group 227
+    3300164: Group 229
+    3300166: Group 231
+    3300168: Group 55
+    3300170: Group 77
+    3300172: Group 79
+    3300174: Group 81
+    3300176: Group 83
+    3300178: Group 96
+    3300180: Group 98
+    3300182: lens#3
+    3300184: lens#4
+    3300186: mirrior 2
+    3300188: mirroe 1
+    3300190: mirroe 1 1
+    3300192: mirroe 2.5
+    3300194: motor
+    3300196: motor 1
+    3300198: Public Safety Eq
+    3300200: Public Safety Eq 1
+    3300202: rotator
+    3300204: rotator 1
+    3300206: Silver laptop computer
+    3300208: SimpleSphere02
+    3300210: SimpleSphere02 1
+    3300212: Star of Life#1
+    3300214: top
+    3300216: top 1
+    3300218: windscre01
+    4300000: Mesh Public Safety Eq
+    4300002: Mesh FORCE 4 XL#1
+    4300004: Mesh lens#4
+    4300006: Mesh lens#3
+    4300008: Mesh rotator
+    4300010: Mesh GeodesicDome01
+    4300012: Mesh motor
+    4300014: Mesh SimpleSphere02
+    4300016: Mesh mirroe 1
+    4300018: Mesh mirrior 2
+    4300020: Mesh mirroe 2.5
+    4300022: Mesh foot
+    4300024: Mesh base
+    4300026: Mesh center cover#2
+    4300028: Mesh Group 55
+    4300030: Mesh windscre01
+    4300032: Mesh Silver laptop computer
+    4300034: Mesh bottom
+    4300036: Mesh top
+    4300038: Mesh 1971 chevy cab and chassis
+    4300040: Mesh Group 77
+    4300042: Mesh Group 79
+    4300044: Mesh Group 81
+    4300046: Mesh Group 83
+    4300048: Mesh Component#5
+    4300050: Mesh Star of Life#1
+    4300052: Mesh Group 96
+    4300054: Mesh Group 98
+    4300056: Mesh Group 100
+    4300058: Mesh Group 102
+    4300060: Mesh Group 105
+    4300062: Mesh Group 107
+    4300064: Mesh Group 109
+    4300066: Mesh Group 111
+    4300068: Mesh Group 121
+    4300070: Mesh Group 128
+    4300072: Mesh Group 134
+    4300074: Mesh cross rail
+    4300076: Mesh cross rail#1
+    4300078: Mesh Group 145
+    4300080: Mesh Group 147
+    4300082: Mesh Group 149
+    4300084: Mesh Group 151
+    4300086: Mesh Group 183
+    4300088: Mesh Group 185
+    4300090: Mesh Group 187
+    4300092: Mesh Group 189
+    4300094: Mesh Group 191
+    4300096: Mesh Group 193
+    4300098: Mesh 1992 Ford F-350 XLT - Crew Cab#2
+    4300100: Mesh FIRST RESPONDER
+    4300102: Mesh 911#5
+    4300104: Mesh FIRST RESPONDER#1
+    4300106: Mesh 911#4
+    4300108: Mesh AMBULANCE#6
+    4300110: Mesh estrella de la vida
+  materials:
+    importMaterials: 1
+    materialName: 2
+    materialSearch: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.0254
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

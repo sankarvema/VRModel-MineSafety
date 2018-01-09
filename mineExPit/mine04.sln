@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "mine04.Plugins", "mine04.Plugins.csproj", "{4EDAB543-FE68-3C51-3A4A-50B42377E6C0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "mine04.Editor.Plugins", "mine04.Editor.Plugins.csproj", "{1D3149C2-3306-C955-FB4B-0C5699B10A50}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4EDAB543-FE68-3C51-3A4A-50B42377E6C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4EDAB543-FE68-3C51-3A4A-50B42377E6C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4EDAB543-FE68-3C51-3A4A-50B42377E6C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4EDAB543-FE68-3C51-3A4A-50B42377E6C0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1D3149C2-3306-C955-FB4B-0C5699B10A50}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1D3149C2-3306-C955-FB4B-0C5699B10A50}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1D3149C2-3306-C955-FB4B-0C5699B10A50}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1D3149C2-3306-C955-FB4B-0C5699B10A50}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

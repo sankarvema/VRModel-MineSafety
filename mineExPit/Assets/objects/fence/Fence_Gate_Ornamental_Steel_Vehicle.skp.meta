@@ -1,0 +1,283 @@
+fileFormatVersion: 2
+guid: ecd26b4a17f02754d80a34368a354256
+timeCreated: 1504520343
+licenseType: Free
+SketchUpImporter:
+  generateBackFace: 0
+  mergeCoplanarFaces: 0
+  selectedNodes: 000000000100000002000000030000000400000005000000060000000700000008000000090000000a0000000b0000000c0000000d0000000e0000000f000000100000001100000012000000130000001400000015000000160000001700000018000000190000001a0000001b0000001c0000001d0000001e0000001f000000200000002100000022000000230000002400000025000000260000002700000028000000290000002a0000002b0000002c0000002d0000002e0000002f000000300000003100000032000000330000003400000035000000360000003700000038000000390000003a0000003b0000003c0000003d0000003e0000003f000000400000004100000042000000430000004400000045000000460000004700000048000000490000004a0000004b0000004c0000004d0000004e0000004f00000050000000510000005200000053000000540000005500000056000000
+  assetHash:
+    serializedVersion: 2
+    Hash: 15a28b0c06e7b88675478c769a812aee
+  longitude: -105.283
+  latitude: 40.017
+  northCorrection: -0
+  fileUnit: 0
+  sketchUpImportData:
+    defaultCamera:
+      position: {x: 1.3016416, y: 0.83642656, z: -3.5593839}
+      lookAt: {x: 1.3016416, y: 0.83642656, z: 0.15582636}
+      up: {x: 0, y: 1, z: 0}
+      fov: 30
+      aspectRatio: 0
+      orthoSize: 1
+      isPerspective: 1
+    scenes: []
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: ball cap
+    100002: ball cap 1
+    100004: ball cap 2
+    100006: bar arch
+    100008: bar arch 1
+    100010: bracket
+    100012: bracket 1
+    100014: crossbar
+    100016: crossbar 1
+    100018: //RootNode
+    100020: post
+    100022: post 1
+    100024: post 2
+    100026: rail
+    100028: rail 1
+    100030: rail 10
+    100032: rail 11
+    100034: rail 12
+    100036: rail 13
+    100038: rail 14
+    100040: rail 15
+    100042: rail 2
+    100044: rail 3
+    100046: rail 4
+    100048: rail 5
+    100050: rail 6
+    100052: rail 7
+    100054: rail 8
+    100056: rail 9
+    100058: ring
+    100060: ring 1
+    100062: ring 10
+    100064: ring 11
+    100066: ring 12
+    100068: ring 13
+    100070: ring 14
+    100072: ring 2
+    100074: ring 3
+    100076: ring 4
+    100078: ring 5
+    100080: ring 6
+    100082: ring 7
+    100084: ring 8
+    100086: ring 9
+    400000: ball cap
+    400002: ball cap 1
+    400004: ball cap 2
+    400006: bar arch
+    400008: bar arch 1
+    400010: bracket
+    400012: bracket 1
+    400014: crossbar
+    400016: crossbar 1
+    400018: //RootNode
+    400020: post
+    400022: post 1
+    400024: post 2
+    400026: rail
+    400028: rail 1
+    400030: rail 10
+    400032: rail 11
+    400034: rail 12
+    400036: rail 13
+    400038: rail 14
+    400040: rail 15
+    400042: rail 2
+    400044: rail 3
+    400046: rail 4
+    400048: rail 5
+    400050: rail 6
+    400052: rail 7
+    400054: rail 8
+    400056: rail 9
+    400058: ring
+    400060: ring 1
+    400062: ring 10
+    400064: ring 11
+    400066: ring 12
+    400068: ring 13
+    400070: ring 14
+    400072: ring 2
+    400074: ring 3
+    400076: ring 4
+    400078: ring 5
+    400080: ring 6
+    400082: ring 7
+    400084: ring 8
+    400086: ring 9
+    2300000: ball cap
+    2300002: ball cap 1
+    2300004: ball cap 2
+    2300006: bar arch
+    2300008: bar arch 1
+    2300010: bracket
+    2300012: bracket 1
+    2300014: crossbar
+    2300016: crossbar 1
+    2300018: post
+    2300020: post 1
+    2300022: post 2
+    2300024: rail
+    2300026: rail 1
+    2300028: rail 10
+    2300030: rail 11
+    2300032: rail 12
+    2300034: rail 13
+    2300036: rail 14
+    2300038: rail 15
+    2300040: rail 2
+    2300042: rail 3
+    2300044: rail 4
+    2300046: rail 5
+    2300048: rail 6
+    2300050: rail 7
+    2300052: rail 8
+    2300054: rail 9
+    2300056: ring
+    2300058: ring 1
+    2300060: ring 10
+    2300062: ring 11
+    2300064: ring 12
+    2300066: ring 13
+    2300068: ring 14
+    2300070: ring 2
+    2300072: ring 3
+    2300074: ring 4
+    2300076: ring 5
+    2300078: ring 6
+    2300080: ring 7
+    2300082: ring 8
+    2300084: ring 9
+    3300000: ball cap
+    3300002: ball cap 1
+    3300004: ball cap 2
+    3300006: bar arch
+    3300008: bar arch 1
+    3300010: bracket
+    3300012: bracket 1
+    3300014: crossbar
+    3300016: crossbar 1
+    3300018: post
+    3300020: post 1
+    3300022: post 2
+    3300024: rail
+    3300026: rail 1
+    3300028: rail 10
+    3300030: rail 11
+    3300032: rail 12
+    3300034: rail 13
+    3300036: rail 14
+    3300038: rail 15
+    3300040: rail 2
+    3300042: rail 3
+    3300044: rail 4
+    3300046: rail 5
+    3300048: rail 6
+    3300050: rail 7
+    3300052: rail 8
+    3300054: rail 9
+    3300056: ring
+    3300058: ring 1
+    3300060: ring 10
+    3300062: ring 11
+    3300064: ring 12
+    3300066: ring 13
+    3300068: ring 14
+    3300070: ring 2
+    3300072: ring 3
+    3300074: ring 4
+    3300076: ring 5
+    3300078: ring 6
+    3300080: ring 7
+    3300082: ring 8
+    3300084: ring 9
+    4300000: Mesh post
+    4300002: Mesh rail
+    4300004: Mesh ring
+    4300006: Mesh ball cap
+    4300008: Mesh crossbar
+    4300010: Mesh bracket
+    4300012: Mesh bar arch
+  materials:
+    importMaterials: 1
+    materialName: 2
+    materialSearch: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.0254
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
